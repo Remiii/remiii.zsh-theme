@@ -29,7 +29,7 @@ To test if your terminal and font support it, check that all the necessary chara
 - Working directory
 - Elevated (root) privileges (⚡)
 
-![Screenshot](https://raw.github.com/remiii/remiii.zsh-theme/_documentation/Screen_001.png)
+![Screenshot](https://raw.github.com/Remiii/remiii.zsh-theme/master/_documentation/Screen_001.png)
 
 ## Future Work
 
