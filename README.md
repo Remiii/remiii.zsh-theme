@@ -41,9 +41,9 @@ Would be nice for the code to be a bit more sane and re-usable. Something to eas
 
 Also the dependency on a powerline-patched font is regrettable, but there's really no way to get that effect without it. Ideally there would be a way to check for compatibility, or maybe even fall back to one of the similar unicode glyphs.
 
-## Lisence
+## License
 
-mydotfiles is licensed under the MIT license (see LICENSE.md file).
+remiii.zsh-theme is licensed under the MIT license (see LICENSE.md file).
 
 ## Author
 
